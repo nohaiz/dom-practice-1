@@ -4,6 +4,16 @@ body{
     color: #2f2f2f;
     background-color: #f9f7f1;
 }
+/* Dark mode CSS */
+.darkMode {
+
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    color: #f9f7f1;
+    background-color: #2f2f2f;
+}
+
+
 h1{
     font-family: 'Playfair Display', serif;
     font-weight: 900;
